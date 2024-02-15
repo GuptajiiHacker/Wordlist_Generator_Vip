@@ -1,19 +1,19 @@
 # ShadowCipher
-![ShadowCipher](https://cdn.discordapp.com/attachments/492351145306751004/1125685119525589002/coollogo_com-28641315.gif)
-> [!] The tool/code/software is made for educational purpose, publisher or developer are not responsible for misuse. We strictly suggest to follow state rules and regulations.
+![Wordlist_Generator_Vip]()
+> [!] The tool/code/software is made for educational purpose, publisher or developer are not responsible for misuse. We strictly suggest to follow state rules and regulations@KrishnaGupta.
  
 A command-line tool to generate wordlists based on first and last name of a target user.
 
 ## About
 
-The ShadowCipher is a simple tool that allows you to generate wordlists based on first and last names. It provides various patterns and variations to create a wide range of potential words for password cracking, data analysis, or other purposes.
+The Wordlist_Generator_Vip is a simple tool that allows you to generate wordlists based on first and last names. It provides various patterns and variations to create a wide range of potential words for password cracking, data analysis, or other purposes.
 
 # Preview (of terminal)
-![ShadowCipher tool preview](https://cdn.discordapp.com/attachments/492351145306751004/1126048446529417236/image.png)
+![Wordlist_Generator_Vip tool preview](https://cdn.discordapp.com/attachments/492351145)
 
 ## Usage
 
-To use the ShadowCipher, follow the steps below:
+To use the Wordlist_Generator_Vip, follow the steps below:
 
 1. Clone the repository or download the `ShadowCipher.py` file.
 2. Ensure you have Python 3 installed on your machine.
@@ -54,8 +54,8 @@ Please make sure to adhere to the existing code style and conventions used in th
 Your contributions will be greatly appreciated and will help make the ShadowCipher even better!
 
 ## Author/Developer
-> Raunak Neupane ([@rezy-dev](https://github.com/Rezy-Dev))
+> ([@KrishnaGupta] HackerGuptajii (https://github.com/GuptajiHacker))
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Krimson-Squad/ShadowCipher/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/GuptajiHacker/Wordlist_Generator_Vip/blob/main/LICENSE) file for details.
