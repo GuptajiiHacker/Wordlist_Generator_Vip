@@ -21,14 +21,14 @@ To use the Wordlist_Generator_Vip, follow the steps below:
 4. Run the following command:
 
    ``
-   python ShadowCipher.py [-h] [-n COUNT] [-sv FILE_NAME] first_name last_name
+   python VipPassGen.py.py [-h] [-n COUNT] [-sv FILE_NAME] first_name last_name
 ``
 -   Replace `first_name` with the target's first name.
 -   Replace `last_name` with the target's last name.
 -   Use the optional `-n` flag followed by the desired count to specify the number of words to generate (default: 100).
 
 **Example**:
-`python ShadowCipher.py -n 500 John Doe -sv johndoe_wordlist.txt` 
+`python3 VipPassGen.py -n 500 Krishna Vip -sv Vip_wordlist.txt` 
 
 5.  The tool will generate a wordlist based on the provided names and display the total number of words generated.
 
