@@ -9,7 +9,8 @@ A command-line tool to generate wordlists based on first and last name of a targ
 The Wordlist_Generator_Vip is a simple tool that allows you to generate wordlists based on first and last names. It provides various patterns and variations to create a wide range of potential words for password cracking, data analysis, or other purposes.
 
 # Preview (of terminal)
-![Wordlist_Generator_Vip tool preview](https://cdn.discordapp.com/attachments/492351145)
+![Wordlist_Generator_Vip tool preview](![Screenshot_2024_0217_195243](https://github.com/GuptajiiHacker/Wordlist_Generator_Vip/assets/155041576/e82a0b58-848c-4a5f-9ac7-746f838325fd)
+)
 
 ## Usage
 
