@@ -18,9 +18,9 @@ The Wordlist_Generator_Vip is a simple tool that allows you to generate wordlist
 
 To use the Wordlist_Generator_Vip, follow the steps below:
 
-1. Clone the repository or download the `ShadowCipher.py` file.
+1. Clone the repository or download the `VipPassGen.py` file.
 2. Ensure you have Python 3 installed on your machine.
-3. Open a terminal or command prompt and navigate to the directory where `ShadowCipher.py` is located.
+3. Open a terminal or command prompt and navigate to the directory where `VipPassGen.py` is located.
 4. Run the following command:
 
    ``
